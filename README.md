@@ -193,11 +193,7 @@ I translate complex product requirements into clean, maintainable architectures 
 
 ### Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/A-Dev-Kit/A-Dev-Kit/main/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/A-Dev-Kit/A-Dev-Kit/main/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/A-Dev-Kit/A-Dev-Kit/main/output/github-contribution-grid-snake.svg">
-</picture>
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/A-Dev-Kit/A-Dev-Kit/main/output/github-contribution-grid-snake.svg">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=80&section=footer" alt="footer" />
 
