@@ -7,7 +7,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+cloud-native+platforms+at+scale;Distributed+systems+%26+microservices;AWS+%7C+Kubernetes+%7C+Event-driven+architecture;Mentoring+teams+%26+owning+architecture)](https://git.io/typing-svg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-A--Dev--Kit-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/A-Dev-Kit)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-A-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/example-profile)
 [![Email](https://img.shields.io/badge/Email-A-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fullstackengineeringsolutions@gmail.com)
 
 </div>
@@ -182,7 +181,6 @@ I translate complex product requirements into clean, maintainable architectures 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-A--Dev--Kit-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/A-Dev-Kit)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-A-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/example-profile)
 [![Email](https://img.shields.io/badge/Email-A-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fullstackengineeringsolutions@gmail.com)
 
 </div>
